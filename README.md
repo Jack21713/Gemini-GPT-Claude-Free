@@ -1,4 +1,4 @@
-<img width="1284" height="2280" alt="ba6a37c3ee499d42097b4e00a18f93d7" src="https://github.com/user-attachments/assets/38d913a6-9d02-4a86-a55e-c782c5a86457" /><div align="center">
+<div align="center">
 <h1 align="center">Gemini-API-free / GPT-API-free</h1>
 
 
