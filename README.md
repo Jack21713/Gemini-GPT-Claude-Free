@@ -1,2 +1,17 @@
-# GPT-Gemini-Claude-Free
-Free ChatGPT&amp;Gemini&amp;Claude API Key，免费ChatGPT&amp;Gemini&amp;Claude API。
+<div align="center">
+<img src="./images/logo.png" alt="icon" width="50px"/>
+<h1 align="center">Gemini-API-free / GPT-API-free</h1>
+
+
+免费使用 Gemini | GPT | Claude
+
+支持 gpt | claude | gemini | grok等
+
+[QQ群: 115232909](点击链接加入群聊：https://qm.qq.com/q/Xag16pgJiu)
+
+
+</div>
+
+## 隐私声明
+
+该项目高度重视隐私，致力于保护其用户的隐私。该项目不会以任何方式收集、记录或存储用户输入的任何文本或由 Gemini|Openai|Claude 服务器返回的任何文本。该项目不会向 Gemini|Openai|Claude 或任何第三方提供有关 API 调用者的身份的任何信息，包括但不限于 IP 地址和用户代理字符串。
