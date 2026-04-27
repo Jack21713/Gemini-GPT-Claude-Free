@@ -1,5 +1,5 @@
 <div align="center">
-<h1 align="center">Gemini-API-free / GPT-API-free</h1>
+<h1 align="center">Gemini-API-free / GPT-API-free / Claude-API-Free</h1>
 
 
 免费使用 Gemini | GPT | Claude
