@@ -1,4 +1,3 @@
-<div align="center">
 <h1 align="center">Gemini-API-free / GPT-API-free</h1>
 
 
