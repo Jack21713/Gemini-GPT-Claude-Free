@@ -1,5 +1,4 @@
 <div align="center">
-<img src="./images/logo.png" alt="icon" width="50px"/>
 <h1 align="center">Gemini-API-free / GPT-API-free</h1>
 
 
