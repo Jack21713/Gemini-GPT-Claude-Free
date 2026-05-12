@@ -2,7 +2,7 @@
 <h1 align="center">Gemini-API-free / GPT-API-free / Claude-API-Free</h1>
 
 
-免费使用 Gemini | GPT | Claude | OpenAI
+免费使用 Gemini | GPT | Claude | OpenAI | Grok
 
 支持 gemini | gpt | claude | grok等
 
