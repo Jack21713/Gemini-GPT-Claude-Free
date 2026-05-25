@@ -9,7 +9,7 @@
 [QQ群: 115232909](点击链接加入群聊：https://qm.qq.com/q/Xag16pgJiu)
 
 
-<img width="446" height="183" alt="1ff861f695275d67bd24aed7c3c7dbc1" src="https://github.com/user-attachments/assets/f6716aa0-ff1d-46d5-90a1-bf5515a714f2" />
+<img width="444" height="174" alt="image" src="https://github.com/user-attachments/assets/15619c9f-1824-40d1-91c2-bc49891fd33e" />
 
 
 
