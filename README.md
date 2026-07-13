@@ -18,6 +18,6 @@
 
 <div align="center">
 
-<img width="446" height="183" alt="1ff861f695275d67bd24aed7c3c7dbc1" src="https://github.com/user-attachments/assets/f6716aa0-ff1d-46d5-90a1-bf5515a714f2" />
+<img width="300" height="450" alt="ba6a37c3ee499d42097b4e00a18f93d7" src="https://github.com/user-attachments/assets/6d462157-2112-4e30-ae5d-279ac0f2464a" />
 
 </div>
